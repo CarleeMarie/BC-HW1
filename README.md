@@ -8,7 +8,7 @@
 
 <strong>Notes:</strong> Because I only worked on the code for accessibility purposes, there are no visual changes to the page.
 
-<strong>[Link]</strong> (https://carleemarie.github.io/BC-HW1/) to page. 
+<strong>[Link] (https://carleemarie.github.io/BC-HW1/) to page.</strong>
 
 Screenshot of Deployed Page
 ![Screenshot of page](#)
